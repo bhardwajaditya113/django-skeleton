@@ -5,6 +5,12 @@ An easy-to-use standard project structure for a fresh Django project.
 
 * Includes Twitter Bootstrap http://getbootstrap.com/
 
+Versions
+========
+
+Django 1.6.1
+Bootstrap 3.1.0
+
 ===
 After cloning the repo,
 
