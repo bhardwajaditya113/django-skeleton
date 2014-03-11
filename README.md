@@ -88,4 +88,4 @@ http://getbootstrap.com/
 https://www.djangoproject.com/
 
 #BTC Donate
-18ZYJyeFAVUiGeWEZRu63NGwrr1ecz1eVR   (thanks!!)
+1KajivBqGt6dwEnY8yUHLH6D9iSj1LMJeY   (thanks!)
